@@ -1,0 +1,31 @@
+
+.navigation-item {
+  padding-top: 48px;
+  border-right: solid 1px $gray-light;
+  height: 127px;
+  width: 125px;
+  text-align: center;
+  display: inline-block;
+  text-decoration: none;
+  font-family: Archer, sans-serif;
+  color: $gray;
+  font-size: 14px;
+
+  i {
+    margin-top: 9px;
+    font-size: 16px;
+    display: block;
+    transition: all 100ms ease-in-out;
+  }
+
+  &-first {
+    border-left: solid 1px $gray-light;
+  }
+}
+
+.navigation-item:hover {
+  i {
+    transform: scale(1.5);
+  }
+}
+

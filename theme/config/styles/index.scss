@@ -1,0 +1,17 @@
+// slick-carousel
+$slick-font-path: './fonts/slick-carousel/';
+$slick-loader-path: './img/slick-carousel/';
+@import '../../../node_modules/slick-carousel/slick/slick.scss';
+@import '../../../node_modules/slick-carousel/slick/slick-theme.scss';
+@import '../../../node_modules/react-image-gallery/styles/scss/image-gallery-no-icon.scss';
+
+// icomoon
+$icomoon-font-path: 'fonts/icomoon';
+@import './icomoon';
+
+// app
+@import './bootstrap-grid';
+@import './theme';
+@import '../../components/index';
+@import '../../templates/index';
+@import '../../containers/index';

@@ -1,0 +1,15 @@
+.wrapper-logo {
+  display: inline-block;
+  vertical-align: top;
+  float: none;
+  margin-top: 10px;
+}
+
+.wrapper-navigation {
+  margin-left: 42px;
+  display: inline-block;
+
+  @media (max-width: 991px) {
+    margin-left: 0 !important;
+  }
+}

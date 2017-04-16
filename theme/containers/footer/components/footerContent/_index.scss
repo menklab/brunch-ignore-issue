@@ -1,0 +1,96 @@
+.footer-content-wrapper {
+  padding: 0 0 0 0;
+  background-color: $white;
+  height: 410px;
+  margin: 0 auto;
+  position: relative;
+
+  h3 {
+    font-family: Archer, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+  }
+
+  h5 {
+    font-family: Lato;
+    font-weight: 500;
+    font-size: 12px;
+  }
+  hr {
+    margin-top: 4px;
+    width: 38px;
+    border-top: solid 1px $teal;
+  }
+}
+
+.footer-col {
+  display: inline-block;
+  position: absolute;
+  top: 66px;
+}
+
+.footer-col-left {
+  left: 0;
+  width: 155px;
+
+}
+
+.footer-col-center {
+  position: absolute;
+  width: 414px;
+  left: 19%;
+}
+
+.footer-col-right {
+  width: 358px;
+  right: 0;
+}
+
+.footer-ss-wrapper {
+  margin-top: 73px;
+}
+
+.footer-map-wrapper {
+  position: relative;
+  top: 18px;
+  right: 0px;
+}
+
+.footer-ss-facebook {
+  color: $blue-facebook;
+  font-size: 36px;
+  text-decoration: none;
+}
+
+.footer-ss-twitter {
+  margin-left: 48px;
+  color: $blue-twitter;
+  font-size: 36px;
+  text-decoration: none;
+}
+
+.footer-h3-top-margin-helper {
+  margin-top: 27px;
+}
+
+.footer-h5-top-margin-helper {
+  margin-top: 10px;
+}
+
+.footer-email-input-btn {
+  display: inline-block;
+  position: relative;
+  bottom: 3px;
+  left: 12px;
+  width: 128px;
+  min-width: inherit;
+  height: 40px;
+}
+
+.footer-email-signup-wrapper {
+  position: relative;
+  top: 60px;
+  left: 0;
+  width: 100%;
+
+}

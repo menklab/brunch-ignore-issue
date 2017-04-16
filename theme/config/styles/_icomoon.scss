@@ -1,0 +1,48 @@
+@import "variables";
+
+@font-face {
+  font-family: 'bslf-ico';
+  src:
+    url('#{$icomoon-font-path}/bslf-ico.ttf?njrf5g') format('truetype'),
+    url('#{$icomoon-font-path}/bslf-ico.woff?njrf5g') format('woff'),
+    url('#{$icomoon-font-path}/bslf-ico.svg?njrf5g#bslf-ico') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'bslf-ico' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-facebook {
+  &:before {
+    content: $icon-facebook;
+  }
+}
+.icon-twitter {
+  &:before {
+    content: $icon-twitter;
+  }
+}
+.icon-arrow-right {
+  &:before {
+    content: $icon-arrow-right;
+  }
+}
+.icon-arrow-down {
+  &:before {
+    content: $icon-arrow-down;
+  }
+}
+
