@@ -1,0 +1,96 @@
+{
+  "topHero": {
+    "backgroundImage": {
+      "height": "327px",
+      "src": "/themes/bslf/img/classes/classroom-hero.jpg"
+    }
+  },
+  "classroomDetails": {
+    "calloutBox": {
+      "icon": {
+        "src": "/themes/bslf/img/icons/raccoon.jpg",
+        "alt": "responsible raccoons icon"
+      },
+      "title": "Responsible Raccoons",
+      "subTitle": "10 months to 16 months",
+      "content": "Our Gentle Giraffes program has twelve infants ranging from approximately 10 month through approximately 16 month-old.  We have 3 consistent and nurturing staff caring for our infants daily."
+    },
+    "mainContent": {
+      "title": "Program Details",
+      "content": "As they transition in to our Gentle Giraffees room we will adhere to their home feeding schedule until approximately 15 month (or sooner) to create a more toddler friendly schedule. Receiveing one nap per ay and eating 3 meals from the centers nutritional menu. Our loving teachers will be spending time with all the children throughout the day, however your child will have their own primary teacher. As they transition from infant to toddler we promote more texture table activites, outdoor play and sensory art for your child to explore.",
+      "list": [
+        "Separate Nap area",
+        "Adult to Child Ratio 1:4",
+        "Feeding, Naps, Diapers are all recorded daily",
+        "Center provides toys, equipment, bibs, sippy cups and wipes",
+        "Personal crib and storage area provided",
+        "Parents provide extra set of clothes, diapers, bottles, baby food, crib sheet",
+        "Comfortable, toddler shoes required ",
+        "Room is enhanced with in floor heating",
+        "Secure live video feed"
+      ]
+    }
+  },
+  "threeBoxCallout": {
+    "title": "Meet the Gentle Giraffes Teachers",
+    "box1": {
+      "title": "Ms. Lexie",
+      "image": {
+        "src": "/themes/bslf/img/home/home-3-box-col-1.jpg",
+        "alt": "bslf playground"
+      },
+      "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy."
+    },
+    "box2": {
+      "title": "Ms. Syndey",
+      "image": {
+        "src": "/themes/bslf/img/home/home-3-box-col-1.jpg",
+        "alt": "bslf playground"
+      },
+      "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy."
+    },
+    "box3": {
+      "title": "Ms. Mikayla",
+      "image": {
+        "src": "/themes/bslf/img/home/home-3-box-col-1.jpg",
+        "alt": "bslf playground"
+      },
+      "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy."
+    }
+  },
+  "gallery": {
+    "title": "Classroom gallery",
+    "images": [
+      {
+        "original": "/themes/bslf/img/classes/responsible_racoons/original.jpg",
+        "originalAlt": "alt text",
+        "thumbnail": "/themes/bslf/img/classes/responsible_racoons/01.jpg",
+        "thumbnailAlt": "thumb alt"
+      },
+      {
+        "original": "/themes/bslf/img/classes/responsible_racoons/original.jpg",
+        "originalAlt": "alt text",
+        "thumbnail": "/themes/bslf/img/classes/responsible_racoons/02.jpg",
+        "thumbnailAlt": "thumb alt"
+      },
+      {
+        "original": "/themes/bslf/img/classes/responsible_racoons/original.jpg",
+        "originalAlt": "alt text",
+        "thumbnail": "/themes/bslf/img/classes/responsible_racoons/03.jpg",
+        "thumbnailAlt": "thumb alt"
+      },
+      {
+        "original": "/themes/bslf/img/classes/responsible_racoons/original.jpg",
+        "originalAlt": "alt text",
+        "thumbnail": "/themes/bslf/img/classes/responsible_racoons/04.jpg",
+        "thumbnailAlt": "thumb alt"
+      },
+      {
+        "original": "/themes/bslf/img/classes/responsible_racoons/original.jpg",
+        "originalAlt": "alt text",
+        "thumbnail": "/themes/bslf/img/classes/responsible_racoons/05.jpg",
+        "thumbnailAlt": "thumb alt"
+      }
+    ]
+  }
+}

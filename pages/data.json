@@ -1,0 +1,76 @@
+{
+  "topHero": {
+    "title": "Christian Child Care & Preschool",
+    "backgroundImage": {
+      "src": "/themes/bslf/img/home/home-hero.jpg",
+      "height": "512px"
+    },
+    "button": {
+      "text": "Learn More"
+    }
+  },
+  "threeBoxCallout": {
+    "box1": {
+      "title": "Welcome",
+      "image": {
+        "src": "/themes/bslf/img/home/home-3-box-col-1.jpg",
+        "alt": "bslf playground"
+      },
+      "text": "Welcome to Big Steps Little Feet Christian Child Care Center & Preschool! We’re conveniently located at 7030 Fulton St, across the street from Amway. You can quickly access our facility on your way to and from your destination."
+    },
+    "box2": {
+      "title": "Child Care Program",
+      "image": {
+        "src": "/themes/bslf/img/home/home-3-box-col-2.jpg",
+        "alt": "bslf friendly faces"
+      },
+      "text": "Our program offers a stimulating and nurturing environment for ages 6 weeks through 8 years. All the while providing an enhanced preschool curriculum for our older children."
+    },
+    "box3": {
+      "title": "Schedule a Tour"
+    }
+  },
+  "newsAndEvents": [
+    {
+      "title": "Now Hiring",
+      "date": "July 21, 2016",
+      "body": "If you are looking for an amazing, fun and rewarding job or know someone who might be, Big Steps in now hiring. We are looking for loving and dedicated staff to join our already awesome team of teachers. We have a variety of positions available. Please stop in or send us your resumes! <a href=''>READ MORE</a>",
+      "rawHtml": true
+    },
+    {
+      "title": "Preschool Graduation",
+      "date": "March 14, 2016",
+      "body": "Preschool graduation date is set for Thursday, May 12th, 2016 at Keystone Church. Come see your child cross over the bridge to receive their diplomas in their caps and gowns! Everyone is invited. We hope to see everyone there!",
+      "rawHtml": false
+    },
+    {
+      "title": "Closed Friday",
+      "date": "March 14, 2016",
+      "body": "Just a reminder that we are going to be closed on Friday, March 25th in observance ofGoodFriday! We hope that everyone has a blessed and safe Easter.",
+      "rawHtml": false
+    },
+    {
+      "title": "Now Hiring 2",
+      "date": "July 21, 2016",
+      "body": "If you are looking for an amazing, fun and rewarding job or know someone who might be, Big Steps in now hiring. We are looking for loving and dedicated staff to join our already awesome team of teachers. We have a variety of positions available. Please stop in or send us your resumes! <a href=''>READ MORE</a>",
+      "rawHtml": false
+    },
+    {
+      "title": "Preschool Graduation 2",
+      "date": "March 14, 2016",
+      "body": "Preschool graduation date is set for Thursday, May 12th, 2016 at Keystone Church. Come see your child cross over the bridge to receive their diplomas in their caps and gowns! Everyone is invited. We hope to see everyone there!",
+      "rawHtml": false
+    }
+  ],
+  "heroMissionStatement": {
+    "title": "Our Mission",
+    "body": "To provide a safe nurturing environment where care and learning become a stimulating adventure, as we partner with parents in developing positive character qualities for your children, our future generation.",
+    "button": {
+      "text": "Learn More"
+    },
+    "backgroundImage": {
+      "src": "/themes/bslf/img/home/home-mission-statement-bg.jpg",
+      "height": "554px"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "topHero": {
+    "backgroundImage": {
+      "height": "327px",
+      "src": "/themes/bslf/img/classes/classroom-hero.jpg"
+    }
+  },
+    "classroomDetails": {
+      "calloutBox": {
+        "icon": {
+          "src": "/themes/bslf/img/icons/chipmunk.jpg",
+          "alt": "cheerful-chipmunks icon"
+        },
+        "title": "Cheerful Chipmunks",
+        "subTitle": "10 months to 16 months",
+        "content": "Our Gentle Giraffes program has twelve infants ranging from approximately 10 month through approximately 16 month-old.  We have 3 consistent and nurturing staff caring for our infants daily."
+
+      }
+  }
+}
