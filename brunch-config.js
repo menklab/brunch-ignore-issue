@@ -57,7 +57,7 @@ module.exports = {
     notifications: false,
     hot: false,
     paths: {
-        public: '../',
+        public: 'public',
         watched: [
             'theme',
             'initialize.js',
